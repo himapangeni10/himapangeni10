@@ -1,5 +1,8 @@
 # Welcome to My Tech Learner Portfolio
-  <h1 align="center">Hi, I'm Hima </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there!+I'm+Hima+👋;&center=true&vCenter=true&size=24" alt="Typing SVG" />
+</p>
+
 <p align="center">
   <i>BCA Student • Python Enthusiast • Web System Builder</i>
 </p>
