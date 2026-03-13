@@ -36,8 +36,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himapangeni10&show_icons=true&hide_title=true)
 
 ## Social Connections
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Instagram](https://instagram.com/yourprofile)  
+- [LinkedIn](https://.www.linkedin.com/in/hima002)
+- [Instagram](https://instagram.com/himapangeni12)  
 
 Looking forward to connecting and collaborating with others in the tech community!
