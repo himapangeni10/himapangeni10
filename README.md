@@ -1,51 +1,37 @@
-<!-- Visitor Log Tracker -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=gomugomucode&label=Log%20Entries&color=8A2BE2&style=flat-square" alt="Visitor Count"/>
+# Welcome to My Tech Learner Portfolio
 
-  <h1 align="center">Hi, I'm hima </h1>
-<p align="center">
-  <i>BCA Student • Python Enthusiast • Web System Builder</i>
-</p>
+Hello! I'm a tech learner passionate about web development and continuously looking to enhance my skills. Here you'll find an overview of my journey, showcasing the projects I've worked on and the technologies I've learned.
 
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,js,nodejs,express,mysql,linux,git,github&perline=12" alt="Tech Stack"/>
-</p>
+## Visitor Counter
+![Visitor Count](https://api.countapi.xyz/hit/himapangeni10/himapangeni10)
 
----
+## Tech Stack
+- **HTML** – The structure of my websites.
+- **CSS** – The style and aesthetics.
+- **JavaScript** – Adding interactivity and functionality.
 
-### 🛠️ Featured Projects
+## Featured Projects
+### Project 1: Personal Portfolio Website
+- A responsive portfolio website to showcase my projects.
+- [View Project](https://your-project-link.com)
 
-* [**eLearn**](https://github.com/gomugomucode/elearn) – Full-stack learning management system (Node.js, React, MySQL).
-* [**Jarvis**](https://github.com/gomugomucode/Jarvis) – AI-driven automation assistant (Python).
+### Project 2: E-commerce Site
+- Developed an e-commerce website with HTML, CSS, and JS.
+- [View Project](https://your-project-link.com)
 
----
+### Project 3: Interactive Quiz
+- A fun interactive quiz using JavaScript.
+- [View Project](https://your-project-link.com)
 
-### 📈 Contribution Activity
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
-</p>
+## Contribution Activity
+![GitHub Activity](https://ghchart.rshb.xyz/himapangeni10)
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gomugomucode&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himapangeni10&show_icons=true&hide_title=true)
 
----
-### 🌐 Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/unish06/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="30" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:alinedtwins@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://medium.com/@gomugomucode" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="30" alt="Medium"/>
-  </a>
-</p>
-<p align="center">
-  <sub>learning slowly • building honestly • growing with time</sub>
-</p>
+## Social Connections
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourprofile)
+- [Instagram](https://instagram.com/yourprofile)  
+
+Looking forward to connecting and collaborating with others in the tech community!
