@@ -1,6 +1,9 @@
 # Welcome to My Tech Learner Portfolio
+  <h1 align="center">Hi, I'm Hima </h1>
+<p align="center">
+  <i>BCA Student • Python Enthusiast • Web System Builder</i>
+</p>
 
-Hello! I'm a tech learner passionate about web development and continuously looking to enhance my skills. Here you'll find an overview of my journey, showcasing the projects I've worked on and the technologies I've learned.
 
 ## Visitor Counter
 ![Visitor Count](https://api.countapi.xyz/hit/himapangeni10/himapangeni10)
